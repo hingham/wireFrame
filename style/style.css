@@ -1,0 +1,75 @@
+body {
+    width: 100%;
+    align-content: center;
+ 
+}
+
+nav {
+    background-color:darkgrey;
+    width: 1200px;
+    height: 100px;
+    margin-bottom: 30px;
+}
+
+h1 {
+    float: left;
+    margin-top: 30px;
+    margin-left: 100px;
+    margin-top: 15px;
+
+}
+
+
+li {
+    background: gray;
+    display: inline-block;
+    height: 70px;
+    width: 200px;
+    text-align: center;
+    line-height: 70px;
+    margin-top: 15px;
+}
+
+section {
+    width: 1000px;
+    margin-left: 120px;
+}
+
+.banner {
+    display: inline-block;
+    margin-right: 30px;
+    margin-top: 30px;
+}
+
+.article-img{
+    float: left;
+    width: 400px;
+    padding-right: 30px;
+}
+
+article {
+    position: relative;
+    padding-left: 30px;
+    margin-right: 5px;
+}
+
+p{
+    max-height: 250px;
+    overflow: scroll;
+}
+
+button {
+    border-radius: 0px;
+    background-color: black;
+    color: white;
+}
+
+footer{
+    background-color: grey;
+    height: 200px;
+    width: 1200px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+
